@@ -17,6 +17,8 @@ the original was "The Abby of Clugny", a gothic novel).
 
   Use the intitle: constraint and the date: constraint. For example: http://books.google.com/books?lr=&q=intitle:Clugny+date:1700-1900&as_pt=ALLTYPES&as_brr=3
 
+* Project Gutenberg
+
 * Worldcat / OCLC
 
   Scans available at the Bayerische Staatsbibliothek show up with this search.
