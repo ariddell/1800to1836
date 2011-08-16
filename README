@@ -12,7 +12,8 @@ Sources
 Scan identifiers format
 =======================
 
-* internet archive ids all look like herbertlodgenewf01warn
+* internet archive ids most look like "herbertlodgenewf01warn." Cornell books
+  have different identifiers, e.g. cu31924013534114
 * Google books ids have 12 characters, e.g. jnNZ5_k2XMIC 
 * Bayrische Staatsbibliothek ids have BSB prefix, e.g. BSB-1_FT_1221531727
 * Project Gutenberg have prefix "pg", i.e. pg20484
