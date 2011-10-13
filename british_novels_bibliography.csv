@@ -1,4 +1,4 @@
-"ID","source","source accessed","source identifier","short_title","author(s)","year","gender","translator","title","publication","format","catalogue numbers","notes","further editions","scan identifiers, space separated","scan notes (volumes missing, second edition, etc.)"
+"ID","source","source accessed","source identifier","short_title","author(s)","year","gender","translator","title","publication","format","catalogue numbers","notes","further editions","scan identifiers, space separated, semicolon separates volumes of same edition","scan notes (volumes missing, second edition, etc.) (semicolon comments on corresponding edition in scan field)"
 1,"GARSIDE1800-1829",20100817,"1800A001","Alphonso di Borgo","ANON",1800,"Unknown",,"ALPHONSO DI BORGO; OR, A SENTIMENTAL CORRESPONDENCE OF THE SIXTEENTH CENTURY","London:                     Printed for J. and T. Carpenter, Old Bond Street, 1800","1 vol.  (iv, 147p). 8&deg;","BL 012612.df.31; EM 334: 6; EN2 1800: 1; ESTC t068057; OCLC 10009049","Dedication to Lady Harry Parker signed 'The Author, London, June 1800'",,,
 2,"GARSIDE1800-1829",20100817,"1800A002","Aluredus","ANON",1800,"Unknown",,"ALUREDUS, KNIGHT OF MALTA. IN THREE VOLUMES","London:                     Printed by J. D. Dewick, Aldersgate Street, for R. Dutton, 10, Birchin Lane, Cornhill, 1800","3 vols (I 276p; II 288p; III 312p). 12&deg;","Corvey; CME 3-628-47050-1; EN2 1800: 2; ESTC n031338; OCLC 41952545",,,,
 3,"GARSIDE1800-1829",20100817,"1800A003","Baronet, The","ANON",1800,"Unknown",,"THE BARONET: A NOVEL. FOUNDED ON FACTS. IN THREE VOLUMES","London:                     Printed by J. D. Dewick, 20, Aldersgate Street; for R. Dutton, 10, Birchin Lane, Cornhill, 1800","3 vols (I 226p; II 220p; III 177p). 12&deg;","Corvey; CME 3-628-47107-9; EN2 1800: 3; ESTC n032364; xOCLC",,,,
@@ -2310,7 +2310,7 @@
 2309,"GARSIDE1830-1836",20110421,"1830:037","PLACEHOLDER GARSIDE 1830-1836",,,,,,,,,,,,
 2310,"GARSIDE1830-1836",20110421,"1830:038","PLACEHOLDER GARSIDE 1830-1836",,,,,,,,,,,,
 2311,"GARSIDE1830-1836",20110421,"1830:039","THE WEIRD WOMAN OF THE WRAAGH","COATES",,,,,,,,,,,
-2312,"GARSIDE1830-1836",20110421,"1830:040","PLACEHOLDER GARSIDE 1830-1836",,,,,,,,,,,,
+2312,"GARSIDE1830-1836",20110421,"1830:040","The Water Witch","COOPER, James Fenimore",,,,,,,,,,"thewaterwitchski01cooprich thewaterwitchski02cooprich thewaterwitchski03cooprich ; waterwitchor00cooprich","3 vols; complete in 1 vol"
 2313,"GARSIDE1830-1836",20110421,"1830:041","PLACEHOLDER GARSIDE 1830-1836",,,,,,,,,,,,
 2314,"GARSIDE1830-1836",20110421,"1830:042","PLACEHOLDER GARSIDE 1830-1836",,,,,,,,,,,,
 2315,"GARSIDE1830-1836",20110421,"1830:043","PLACEHOLDER GARSIDE 1830-1836",,,,,,,,,,,,
