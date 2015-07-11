@@ -2,6 +2,9 @@
  README
 ========
 
+NOTE: This project has moved to `https://novels.io <https://novels.io>`_.
+Corrections are no longer being made to this dataset.
+
 Sources
 =======
 
